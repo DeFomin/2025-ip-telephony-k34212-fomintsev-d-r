@@ -1,12 +1,12 @@
-University: [ITMO University](https://itmo.ru/ru/)
-Faculty: [FICT](https://fict.itmo.ru)
-Course: [IP-telephony](https://itmo-ict-faculty.github.io/ip-telephony/)
-Year: 2023/2024
-Group: K34212
-Author: Fomintsev Denis Ruslanovich
-Lab: Lab1
-Date of create: 13.02.2025
-Date of finished: 14.02.2024
+University: [ITMO University](https://itmo.ru/ru/)  
+Faculty: [FICT](https://fict.itmo.ru)  
+Course: [IP-telephony](https://itmo-ict-faculty.github.io/ip-telephony/)  
+Year: 2023/2024  
+Group: K34212  
+Author: Fomintsev Denis Ruslanovich  
+Lab: Lab1  
+Date of create: 13.02.2025  
+Date of finished: 13.02.2024  
 
 
 ## Отчет по лабораторной работе №1
